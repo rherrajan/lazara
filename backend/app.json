@@ -1,0 +1,5 @@
+{
+  "name": "lazara",
+  "description": "location based game",
+  "addons": [ "heroku-postgresql" ]
+}
