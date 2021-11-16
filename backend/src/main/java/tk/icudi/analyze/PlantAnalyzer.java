@@ -43,7 +43,7 @@ public class PlantAnalyzer {
 		} catch (UnsupportedEncodingException e) {
 			throw new RuntimeException("i can't write UTF-8", e);
 		}
-		String organ = "flower";
+		String organ = "fruit";
 		String analyzeURL = createAnalyseURL(plantURLEnc, organ);
 		
 		return apiCaller.callURL(analyzeURL);
@@ -54,15 +54,17 @@ public class PlantAnalyzer {
 	}
 
 	IdentificationResult extractResult(String responseJson) {
+		
+		IdentificationResult result = new IdentificationResult();
+		
 		JSONObject analyzation = new JSONObject(responseJson);
 		JSONObject firstResult = analyzation.getJSONArray("results").getJSONObject(0);
 		long score = Math.round(firstResult.getDouble("score") * 100);
 		if(score < MINIMUM_SCORE){
 			System.out.println("score with '"  + score + "' is too low");
-			return null;
+			return result;
 		}
 		
-		IdentificationResult result = new IdentificationResult();
 		result.setScore(score);
 		
 		JSONObject species = firstResult.getJSONObject("species");

@@ -32,7 +32,7 @@ class PlantAnalyzerTest {
 
 		ArgumentCaptor<String> stringCaptor = ArgumentCaptor.forClass(String.class);
 		Mockito.verify(apiCaller).callURL(stringCaptor.capture());
-		String expectedUrl = "https://my-api.plantnet.org/v2/identify/all?api-key=2b10hw2I9itlXE4zCJSEZRzvpe&images=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Falchemy-dfebf.appspot.com%2Fo%2Fimages%252FIMG_20210928_150936.jpg%3Falt%3Dmedia%26token%3Dee5b3aac-c396-471a-80e1-b55311acc212&organs=flower&include-related-images=true";
+		String expectedUrl = "https://my-api.plantnet.org/v2/identify/all?api-key=2b10hw2I9itlXE4zCJSEZRzvpe&images=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Falchemy-dfebf.appspot.com%2Fo%2Fimages%252FIMG_20210928_150936.jpg%3Falt%3Dmedia%26token%3Dee5b3aac-c396-471a-80e1-b55311acc212&organs=fruit&include-related-images=true";
 		assertThat(stringCaptor.getValue(), is(expectedUrl));
 	}
 
@@ -66,6 +66,15 @@ class PlantAnalyzerTest {
 		assertThat(result.getShotTime(), is("2021:09:28 15:09:36"));
 		assertThat(result.getUploadTime(), is(notNullValue()));
 		assertThat(result.getUuid(), is(uuid));
+	}
+	
+	@Test
+	void shouldReturnErrorResult() throws Exception {
+
+		String responseJson = new String(Files.readAllBytes(Paths.get("src/test/resources/AnalyzeResultBadPicture.json")));
+		IdentificationResult result = plantAnalyzer.extractResult(responseJson);
+		
+		assertThat(result, notNullValue());
 	}
 	
 	

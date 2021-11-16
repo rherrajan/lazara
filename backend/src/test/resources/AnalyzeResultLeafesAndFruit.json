@@ -1,0 +1,482 @@
+{
+    "query": {
+        "project": "all",
+        "images": [
+            "https://firebasestorage.googleapis.com/v0/b/alchemy-dfebf.appspot.com/o/images%2FIMG_20210928_150936.jpg?alt=media&token=51ed0d9c-cbfe-4a76-b074-319998b9e7b4"
+        ],
+        "organs": [
+            "fruit"
+        ]
+    },
+    "language": "en",
+    "preferedReferential": "weurope",
+    "results": [
+        {
+            "score": 0.39278,
+            "species": {
+                "scientificNameWithoutAuthor": "Crataegus x media",
+                "scientificNameAuthorship": "Bechst.",
+                "genus": {
+                    "scientificNameWithoutAuthor": "Crataegus",
+                    "scientificNameAuthorship": "L.",
+                    "scientificName": "Crataegus L."
+                },
+                "family": {
+                    "scientificNameWithoutAuthor": "Rosaceae",
+                    "scientificNameAuthorship": "",
+                    "scientificName": "Rosaceae"
+                },
+                "commonNames": [
+                    "Hawthorn",
+                    "Intermediate hawthorn"
+                ],
+                "scientificName": "Crataegus x media Bechst."
+            },
+            "images": [
+                {
+                    "organ": "leaf",
+                    "author": "Tela Botanica − Alain Bigou",
+                    "license": "cc-by-sa",
+                    "date": {
+                        "timestamp": 1574285545000,
+                        "string": "November 20, 2019"
+                    },
+                    "url": {
+                        "o": "https://bs.plantnet.org/image/o/135b35fe817df2c76a883f82a57ae6157d749806",
+                        "m": "https://bs.plantnet.org/image/m/135b35fe817df2c76a883f82a57ae6157d749806",
+                        "s": "https://bs.plantnet.org/image/s/135b35fe817df2c76a883f82a57ae6157d749806"
+                    },
+                    "citation": "Tela Botanica − Alain Bigou / Pl@ntNet, cc-by-sa"
+                }
+            ],
+            "gbif": {
+                "id": "3013800"
+            }
+        },
+        {
+            "score": 0.28929,
+            "species": {
+                "scientificNameWithoutAuthor": "Crataegus monogyna",
+                "scientificNameAuthorship": "Jacq.",
+                "genus": {
+                    "scientificNameWithoutAuthor": "Crataegus",
+                    "scientificNameAuthorship": "L.",
+                    "scientificName": "Crataegus L."
+                },
+                "family": {
+                    "scientificNameWithoutAuthor": "Rosaceae",
+                    "scientificNameAuthorship": "",
+                    "scientificName": "Rosaceae"
+                },
+                "commonNames": [
+                    "Hawthorn",
+                    "Common Hawthorn",
+                    "English Hawthorn"
+                ],
+                "scientificName": "Crataegus monogyna Jacq."
+            },
+            "images": [
+                {
+                    "organ": "fruit",
+                    "author": "claire ferry",
+                    "license": "cc-by-sa",
+                    "date": {
+                        "timestamp": 1604851201361,
+                        "string": "November 8, 2020"
+                    },
+                    "url": {
+                        "o": "https://bs.plantnet.org/image/o/b97cb60e38e974dda9d398c612a66ab8a03c6106",
+                        "m": "https://bs.plantnet.org/image/m/b97cb60e38e974dda9d398c612a66ab8a03c6106",
+                        "s": "https://bs.plantnet.org/image/s/b97cb60e38e974dda9d398c612a66ab8a03c6106"
+                    },
+                    "citation": "claire ferry / Pl@ntNet, cc-by-sa"
+                },
+                {
+                    "organ": "fruit",
+                    "author": "marina aymes",
+                    "license": "cc-by-sa",
+                    "date": {
+                        "timestamp": 1604389015667,
+                        "string": "November 3, 2020"
+                    },
+                    "url": {
+                        "o": "https://bs.plantnet.org/image/o/35794239b55fb66d0228ffae880fedb79ced1b81",
+                        "m": "https://bs.plantnet.org/image/m/35794239b55fb66d0228ffae880fedb79ced1b81",
+                        "s": "https://bs.plantnet.org/image/s/35794239b55fb66d0228ffae880fedb79ced1b81"
+                    },
+                    "citation": "marina aymes / Pl@ntNet, cc-by-sa"
+                },
+                {
+                    "organ": "fruit",
+                    "author": "Tela Botanica − Michel Pansiot",
+                    "license": "cc-by-sa",
+                    "date": {
+                        "timestamp": 1540137689000,
+                        "string": "October 21, 2018"
+                    },
+                    "url": {
+                        "o": "https://bs.plantnet.org/image/o/a4715b588aeb2eed58e0d9df8ba2af06815048ac",
+                        "m": "https://bs.plantnet.org/image/m/a4715b588aeb2eed58e0d9df8ba2af06815048ac",
+                        "s": "https://bs.plantnet.org/image/s/a4715b588aeb2eed58e0d9df8ba2af06815048ac"
+                    },
+                    "citation": "Tela Botanica − Michel Pansiot / Pl@ntNet, cc-by-sa"
+                },
+                {
+                    "organ": "fruit",
+                    "author": "laure lbdk",
+                    "license": "cc-by-sa",
+                    "date": {
+                        "timestamp": 1599401375173,
+                        "string": "September 6, 2020"
+                    },
+                    "url": {
+                        "o": "https://bs.plantnet.org/image/o/42aaeb2f24882c6cce695ecac72bc6e0d04b05f1",
+                        "m": "https://bs.plantnet.org/image/m/42aaeb2f24882c6cce695ecac72bc6e0d04b05f1",
+                        "s": "https://bs.plantnet.org/image/s/42aaeb2f24882c6cce695ecac72bc6e0d04b05f1"
+                    },
+                    "citation": "laure lbdk / Pl@ntNet, cc-by-sa"
+                },
+                {
+                    "organ": "fruit",
+                    "author": "Tela Botanica − Liliane Roubaudi",
+                    "license": "cc-by-sa",
+                    "date": {
+                        "timestamp": 1349695946000,
+                        "string": "October 8, 2012"
+                    },
+                    "url": {
+                        "o": "https://bs.plantnet.org/image/o/21d1a5556caa3adacf667df09ff779bc11750c18",
+                        "m": "https://bs.plantnet.org/image/m/21d1a5556caa3adacf667df09ff779bc11750c18",
+                        "s": "https://bs.plantnet.org/image/s/21d1a5556caa3adacf667df09ff779bc11750c18"
+                    },
+                    "citation": "Tela Botanica − Liliane Roubaudi / Pl@ntNet, cc-by-sa"
+                },
+                {
+                    "organ": "fruit",
+                    "author": "Mark Nuijten",
+                    "license": "cc-by-sa",
+                    "date": {
+                        "timestamp": 1601122947814,
+                        "string": "September 26, 2020"
+                    },
+                    "url": {
+                        "o": "https://bs.plantnet.org/image/o/170da5b42326424c6b1366a5ffbedabc7342fd9c",
+                        "m": "https://bs.plantnet.org/image/m/170da5b42326424c6b1366a5ffbedabc7342fd9c",
+                        "s": "https://bs.plantnet.org/image/s/170da5b42326424c6b1366a5ffbedabc7342fd9c"
+                    },
+                    "citation": "Mark Nuijten / Pl@ntNet, cc-by-sa"
+                }
+            ],
+            "gbif": {
+                "id": "9220780"
+            }
+        },
+        {
+            "score": 0.05972,
+            "species": {
+                "scientificNameWithoutAuthor": "Crataegus azarolus",
+                "scientificNameAuthorship": "L.",
+                "genus": {
+                    "scientificNameWithoutAuthor": "Crataegus",
+                    "scientificNameAuthorship": "L.",
+                    "scientificName": "Crataegus L."
+                },
+                "family": {
+                    "scientificNameWithoutAuthor": "Rosaceae",
+                    "scientificNameAuthorship": "",
+                    "scientificName": "Rosaceae"
+                },
+                "commonNames": [
+                    "Azarole",
+                    "Spanish Spine",
+                    "Mediterranean-medlar"
+                ],
+                "scientificName": "Crataegus azarolus L."
+            },
+            "images": [
+                {
+                    "organ": "fruit",
+                    "author": "Tela Botanica − Bernard SUDAN",
+                    "license": "cc-by-sa",
+                    "date": {
+                        "timestamp": 1442000631000,
+                        "string": "September 11, 2015"
+                    },
+                    "url": {
+                        "o": "https://bs.plantnet.org/image/o/76d3d09701e670fdf1b2b129d42386481d92db81",
+                        "m": "https://bs.plantnet.org/image/m/76d3d09701e670fdf1b2b129d42386481d92db81",
+                        "s": "https://bs.plantnet.org/image/s/76d3d09701e670fdf1b2b129d42386481d92db81"
+                    },
+                    "citation": "Tela Botanica − Bernard SUDAN / Pl@ntNet, cc-by-sa"
+                },
+                {
+                    "organ": "fruit",
+                    "author": "Gym Skuteč",
+                    "license": "cc-by-sa",
+                    "date": {
+                        "timestamp": 1509830538000,
+                        "string": "November 4, 2017"
+                    },
+                    "url": {
+                        "o": "https://bs.plantnet.org/image/o/1b9f2712c9910d00105d7831d3acc27df4143a72",
+                        "m": "https://bs.plantnet.org/image/m/1b9f2712c9910d00105d7831d3acc27df4143a72",
+                        "s": "https://bs.plantnet.org/image/s/1b9f2712c9910d00105d7831d3acc27df4143a72"
+                    },
+                    "citation": "Gym Skuteč / Pl@ntNet, cc-by-sa"
+                },
+                {
+                    "organ": "leaf",
+                    "author": "Tela Botanica − Alain Bigou",
+                    "license": "cc-by-sa",
+                    "date": {
+                        "timestamp": 1542586734000,
+                        "string": "November 19, 2018"
+                    },
+                    "url": {
+                        "o": "https://bs.plantnet.org/image/o/bb202f81fc05a6a4e3ffc4a1d38a40edab129685",
+                        "m": "https://bs.plantnet.org/image/m/bb202f81fc05a6a4e3ffc4a1d38a40edab129685",
+                        "s": "https://bs.plantnet.org/image/s/bb202f81fc05a6a4e3ffc4a1d38a40edab129685"
+                    },
+                    "citation": "Tela Botanica − Alain Bigou / Pl@ntNet, cc-by-sa"
+                },
+                {
+                    "organ": "fruit",
+                    "author": "jas jas",
+                    "license": "cc-by-sa",
+                    "date": {
+                        "timestamp": 1584570120961,
+                        "string": "March 18, 2020"
+                    },
+                    "url": {
+                        "o": "https://bs.plantnet.org/image/o/5c8b2b16da06618be92ea2148395069b236cd2c5",
+                        "m": "https://bs.plantnet.org/image/m/5c8b2b16da06618be92ea2148395069b236cd2c5",
+                        "s": "https://bs.plantnet.org/image/s/5c8b2b16da06618be92ea2148395069b236cd2c5"
+                    },
+                    "citation": "jas jas / Pl@ntNet, cc-by-sa"
+                },
+                {
+                    "organ": "fruit",
+                    "author": "Bastien Zanette",
+                    "license": "cc-by-sa",
+                    "date": {
+                        "timestamp": 1475744518000,
+                        "string": "October 6, 2016"
+                    },
+                    "url": {
+                        "o": "https://bs.plantnet.org/image/o/eea80856e4936356ac39c5c9ffadcaf5f176100f",
+                        "m": "https://bs.plantnet.org/image/m/eea80856e4936356ac39c5c9ffadcaf5f176100f",
+                        "s": "https://bs.plantnet.org/image/s/eea80856e4936356ac39c5c9ffadcaf5f176100f"
+                    },
+                    "citation": "Bastien Zanette / Pl@ntNet, cc-by-sa"
+                },
+                {
+                    "organ": "fruit",
+                    "author": "Agapait",
+                    "license": "cc-by-sa",
+                    "date": {
+                        "timestamp": 1633016649457,
+                        "string": "September 30, 2021"
+                    },
+                    "url": {
+                        "o": "https://bs.plantnet.org/image/o/8fc8280b7834f69273ddcd21657e537d3688d809",
+                        "m": "https://bs.plantnet.org/image/m/8fc8280b7834f69273ddcd21657e537d3688d809",
+                        "s": "https://bs.plantnet.org/image/s/8fc8280b7834f69273ddcd21657e537d3688d809"
+                    },
+                    "citation": "Agapait / Pl@ntNet, cc-by-sa"
+                }
+            ],
+            "gbif": {
+                "id": "3013739"
+            }
+        },
+        {
+            "score": 0.05593,
+            "species": {
+                "scientificNameWithoutAuthor": "Crataegus laevigata",
+                "scientificNameAuthorship": "(Poir.) DC.",
+                "genus": {
+                    "scientificNameWithoutAuthor": "Crataegus",
+                    "scientificNameAuthorship": "L.",
+                    "scientificName": "Crataegus L."
+                },
+                "family": {
+                    "scientificNameWithoutAuthor": "Rosaceae",
+                    "scientificNameAuthorship": "",
+                    "scientificName": "Rosaceae"
+                },
+                "commonNames": [
+                    "English hawthorn",
+                    "Hagthorn",
+                    "May Whitethorn"
+                ],
+                "scientificName": "Crataegus laevigata (Poir.) DC."
+            },
+            "images": [
+                {
+                    "organ": "fruit",
+                    "author": "iffffi",
+                    "license": "cc-by-sa",
+                    "date": {
+                        "timestamp": 1631177083194,
+                        "string": "September 9, 2021"
+                    },
+                    "url": {
+                        "o": "https://bs.plantnet.org/image/o/019fb71d68097d17d428eac7b9f02493c25bc0bd",
+                        "m": "https://bs.plantnet.org/image/m/019fb71d68097d17d428eac7b9f02493c25bc0bd",
+                        "s": "https://bs.plantnet.org/image/s/019fb71d68097d17d428eac7b9f02493c25bc0bd"
+                    },
+                    "citation": "iffffi / Pl@ntNet, cc-by-sa"
+                },
+                {
+                    "organ": "leaf",
+                    "author": "Roger Gylén",
+                    "license": "cc-by-sa",
+                    "date": {
+                        "timestamp": 1634221606961,
+                        "string": "October 14, 2021"
+                    },
+                    "url": {
+                        "o": "https://bs.plantnet.org/image/o/9b3486c53e9ca4446859de3e8f23396b32fa25f1",
+                        "m": "https://bs.plantnet.org/image/m/9b3486c53e9ca4446859de3e8f23396b32fa25f1",
+                        "s": "https://bs.plantnet.org/image/s/9b3486c53e9ca4446859de3e8f23396b32fa25f1"
+                    },
+                    "citation": "Roger Gylén / Pl@ntNet, cc-by-sa"
+                },
+                {
+                    "organ": "fruit",
+                    "author": "Georges Dussart",
+                    "license": "cc-by-sa",
+                    "date": {
+                        "timestamp": 1570373427938,
+                        "string": "October 6, 2019"
+                    },
+                    "url": {
+                        "o": "https://bs.plantnet.org/image/o/b2b7497e3169533beb5ad6a9dd668d9f2534d9ae",
+                        "m": "https://bs.plantnet.org/image/m/b2b7497e3169533beb5ad6a9dd668d9f2534d9ae",
+                        "s": "https://bs.plantnet.org/image/s/b2b7497e3169533beb5ad6a9dd668d9f2534d9ae"
+                    },
+                    "citation": "Georges Dussart / Pl@ntNet, cc-by-sa"
+                },
+                {
+                    "organ": "fruit",
+                    "author": "Sam van Rijswijk",
+                    "license": "cc-by-sa",
+                    "date": {
+                        "timestamp": 1537888193000,
+                        "string": "September 25, 2018"
+                    },
+                    "url": {
+                        "o": "https://bs.plantnet.org/image/o/fdb3849a60328439cb3197326ef29ab5894c2585",
+                        "m": "https://bs.plantnet.org/image/m/fdb3849a60328439cb3197326ef29ab5894c2585",
+                        "s": "https://bs.plantnet.org/image/s/fdb3849a60328439cb3197326ef29ab5894c2585"
+                    },
+                    "citation": "Sam van Rijswijk / Pl@ntNet, cc-by-sa"
+                },
+                {
+                    "organ": "fruit",
+                    "author": "sandrine Thorin",
+                    "license": "cc-by-sa",
+                    "date": {
+                        "timestamp": 1599914987209,
+                        "string": "September 12, 2020"
+                    },
+                    "url": {
+                        "o": "https://bs.plantnet.org/image/o/168d0b0838cce5726702462868d034a064ce9c59",
+                        "m": "https://bs.plantnet.org/image/m/168d0b0838cce5726702462868d034a064ce9c59",
+                        "s": "https://bs.plantnet.org/image/s/168d0b0838cce5726702462868d034a064ce9c59"
+                    },
+                    "citation": "sandrine Thorin / Pl@ntNet, cc-by-sa"
+                },
+                {
+                    "organ": "fruit",
+                    "author": "varga marian",
+                    "license": "cc-by-sa",
+                    "date": {
+                        "timestamp": 1567186124083,
+                        "string": "August 30, 2019"
+                    },
+                    "url": {
+                        "o": "https://bs.plantnet.org/image/o/bd6575f43d455bd35969d4e0e6074a683f1968eb",
+                        "m": "https://bs.plantnet.org/image/m/bd6575f43d455bd35969d4e0e6074a683f1968eb",
+                        "s": "https://bs.plantnet.org/image/s/bd6575f43d455bd35969d4e0e6074a683f1968eb"
+                    },
+                    "citation": "varga marian / Pl@ntNet, cc-by-sa"
+                }
+            ],
+            "gbif": {
+                "id": "8252683"
+            }
+        },
+        {
+            "score": 0.01588,
+            "species": {
+                "scientificNameWithoutAuthor": "Crataegus x subsphaerica",
+                "scientificNameAuthorship": "Gand.",
+                "genus": {
+                    "scientificNameWithoutAuthor": "Crataegus",
+                    "scientificNameAuthorship": "L.",
+                    "scientificName": "Crataegus L."
+                },
+                "family": {
+                    "scientificNameWithoutAuthor": "Rosaceae",
+                    "scientificNameAuthorship": "",
+                    "scientificName": "Rosaceae"
+                },
+                "commonNames": [ ],
+                "scientificName": "Crataegus x subsphaerica Gand."
+            },
+            "images": [
+                {
+                    "organ": "fruit",
+                    "author": "Sabina Hartmann",
+                    "license": "cc-by-sa",
+                    "date": {
+                        "timestamp": 1600029317618,
+                        "string": "September 13, 2020"
+                    },
+                    "url": {
+                        "o": "https://bs.plantnet.org/image/o/1fdfb6fb54f941f617025f0fb6195b8dfc120918",
+                        "m": "https://bs.plantnet.org/image/m/1fdfb6fb54f941f617025f0fb6195b8dfc120918",
+                        "s": "https://bs.plantnet.org/image/s/1fdfb6fb54f941f617025f0fb6195b8dfc120918"
+                    },
+                    "citation": "Sabina Hartmann / Pl@ntNet, cc-by-sa"
+                },
+                {
+                    "organ": "leaf",
+                    "author": "Sabina Hartmann",
+                    "license": "cc-by-sa",
+                    "date": {
+                        "timestamp": 1600975272058,
+                        "string": "September 24, 2020"
+                    },
+                    "url": {
+                        "o": "https://bs.plantnet.org/image/o/29abbb08e10a2e455f76a16d519259a94c6737a3",
+                        "m": "https://bs.plantnet.org/image/m/29abbb08e10a2e455f76a16d519259a94c6737a3",
+                        "s": "https://bs.plantnet.org/image/s/29abbb08e10a2e455f76a16d519259a94c6737a3"
+                    },
+                    "citation": "Sabina Hartmann / Pl@ntNet, cc-by-sa"
+                },
+                {
+                    "organ": "habit",
+                    "author": "Sabina Hartmann",
+                    "license": "cc-by-sa",
+                    "date": {
+                        "timestamp": 1600029317618,
+                        "string": "September 13, 2020"
+                    },
+                    "url": {
+                        "o": "https://bs.plantnet.org/image/o/9177987b2ac305f0dc5cd7f29ce759795d748a03",
+                        "m": "https://bs.plantnet.org/image/m/9177987b2ac305f0dc5cd7f29ce759795d748a03",
+                        "s": "https://bs.plantnet.org/image/s/9177987b2ac305f0dc5cd7f29ce759795d748a03"
+                    },
+                    "citation": "Sabina Hartmann / Pl@ntNet, cc-by-sa"
+                }
+            ],
+            "gbif": {
+                "id": "3853236"
+            }
+        }
+    ],
+    "remainingIdentificationRequests": 484
+
+}

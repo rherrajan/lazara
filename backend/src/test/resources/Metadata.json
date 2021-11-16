@@ -1,0 +1,114 @@
+{
+   "exifdata":{
+      "ImageWidth":3120,
+      "ImageHeight":4160,
+      "BitsPerSample":[
+         8,
+         8,
+         8
+      ],
+      "Make":"HUAWEI",
+      "Model":"FIG-LX1",
+      "Orientation":0,
+      "XResolution":72,
+      "YResolution":72,
+      "ResolutionUnit":2,
+      "Software":"FIG-LX1 9.1.0.216(C432E22R1P5)",
+      "DateTime":"2021:09:28 15:09:36",
+      "YCbCrPositioning":1,
+      "ExifIFDPointer":284,
+      "GPSInfoIFDPointer":8530,
+      "undefined":[
+         
+      ],
+      "ExposureTime":0.002152,
+      "FNumber":2.2,
+      "ExposureProgram":"Normal program",
+      "ISOSpeedRatings":50,
+      "ExifVersion":"0210",
+      "DateTimeOriginal":"2021:09:28 15:09:36",
+      "DateTimeDigitized":"2021:09:28 15:09:36",
+      "ComponentsConfiguration":"YCbCr",
+      "CompressedBitsPerPixel":0.95,
+      "ShutterSpeedValue":29.8973,
+      "ApertureValue":2.27,
+      "BrightnessValue":0,
+      "ExposureBias":0,
+      "MaxApertureValue":2.27,
+      "MeteringMode":"Pattern",
+      "LightSource":"Daylight",
+      "Flash":"Flash did not fire",
+      "FocalLength":3.46,
+      "MakerNote":[
+         35,
+         35,
+         42,
+         42,
+         100,
+         97,
+         118,
+         0
+      ],
+      "SubsecTime":"810199",
+      "SubsecTimeOriginal":"810199",
+      "SubsecTimeDigitized":"810199",
+      "FlashpixVersion":"0100",
+      "ColorSpace":1,
+      "PixelXDimension":3120,
+      "PixelYDimension":4160,
+      "InteroperabilityIFDPointer":8500,
+      "SensingMethod":"One-chip color area sensor",
+      "FileSource":"DSC",
+      "SceneType":"Directly photographed",
+      "CustomRendered":"Custom process",
+      "ExposureMode":0,
+      "WhiteBalance":"Auto white balance",
+      "DigitalZoomRation":1,
+      "FocalLengthIn35mmFilm":26,
+      "SceneCaptureType":"Standard",
+      "GainControl":"None",
+      "Contrast":"Normal",
+      "Saturation":"Normal",
+      "Sharpness":"Normal",
+      "SubjectDistanceRange":"Unknown",
+      "GPSVersionID":"2.2.0.0",
+      "GPSLatitudeRef":"N",
+      "GPSLatitude":[
+         49,
+         57,
+         10.274963
+      ],
+      "GPSLongitudeRef":"E",
+      "GPSLongitude":[
+         8,
+         20,
+         8.551025
+      ],
+      "GPSAltitudeRef":1,
+      "GPSAltitude":0,
+      "GPSTimeStamp":[
+         13,
+         9,
+         36
+      ],
+      "GPSProcessingMethod":"CELLID",
+      "GPSDateStamp":"2021:09:28",
+      "thumbnail":{
+         "ImageWidth":384,
+         "ImageHeight":512,
+         "Compression":6,
+         "Orientation":0,
+         "XResolution":72,
+         "YResolution":72,
+         "ResolutionUnit":2,
+         "JpegIFOffset":8886,
+         "JpegIFByteCount":38672,
+         "blob":{
+            
+         }
+      }
+   },
+   "iptcdata":{
+      
+   }
+}
