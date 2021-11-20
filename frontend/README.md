@@ -1,51 +1,27 @@
-lazara
-=========
+# Lazara
 
-Description
-----------------------------------------------------
-location based game
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.3.
 
+## Development server
 
-Build the static frontend
--------------------------
-```bash
-	cd frontend
-```
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-generate the html
+## Code scaffolding
 
-```bash
-	npm start
-```
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-show the html
+## Build
 
-```bash
-	http-server ./dist &
-```
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-optional: promote coming changes via grunt
+## Running unit tests
 
-```bash
-	grunt watch
-```
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
+## Running end-to-end tests
 
-view http://localhost:8080
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-Deploy the static frontend
--------------------------
+## Further help
 
-create a new [github repository](https://github.com/new) and push your code to it
-
-```bash
-	git remote add origin https://github.com/<accountname>/lazara.git
-	git push -u origin master
-```
-
-create a new [netlify app](https://app.netlify.com/start) connecting to github
-
-open "domain settings"-> "Custom Domains" -> "edit site name"
-change the generated site name to "lazara"
-
-open https://lazara.netlify.com
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
